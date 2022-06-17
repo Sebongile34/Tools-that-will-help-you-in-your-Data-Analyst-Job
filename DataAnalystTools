@@ -2,22 +2,23 @@ Excel; Data Cleaning 'Change formats,  Merge Data,   '
        Data Analysis 'Dropdown lists, Index Match, IF functions, Pivot tables, '
        Data Visualization 'Save Time with Quick Analysis' 
       
-SAS; Collect Data Ses from primary and Secondary data Sources 
-     Asses the quality of data 'Missing values, outliers and duplicates 
-     Prepare Data for Analysis Create views(combine tables into one) 
-     Create Reports with clear visualizations
-     Load data into Database warehouses 
+SAS;   Collect Data Ses from primary and Secondary data Sources 
+       Asses the quality of data 'Missing values, outliers and duplicates 
+       Prepare Data for Analysis Create views(combine tables into one) 
+       Create Reports with clear visualizations
+       Load data into Database warehouses 
      
-R; Data Clustering 
-   Data Analysis; use R to generate revenue and transactiong graphs
-   Query and comparing Results 
+R;     Data Clustering 
+       Data Analysis; use R to generate revenue and transactiong graphs
+       Query and comparing Results 
    
 Python; Easy to use and flexible 
         Large and free liraries, pandas and numpy 
         
-Tableau; great for data visualisation
+        
+Tableau;      Great for data visualisation
 
 Apache Spark; Analytics engine for large data processing. 
             
-Power BI; Data visualisation software provided by microsoft
+Power BI;     Data visualisation software provided by microsoft
      
